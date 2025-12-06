@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "test ",
+    "director": "I",
+    "year": 3025,
+    "budget": 999,
+    "oscar": true,
+    "description": "test",
+    "posterurl": "/static/poster_1.jpg"
+  }
+]
